@@ -14,19 +14,11 @@ include('partials/header.php');
                         <div class="row">
                           <div class="col-md-12">
                             <div class="text-center">
-                              <h4>Featured Product: <em>Newline</em></h4>
-                              <p>Lorem ipsum dolor amet, consecte adipiscing elit, quisque dictum convallis mi. In dapibus auctor dictum donec mattis quis eros ultricies feugiat. Morbi congue faucibus mi, ague blandit curabitur ac lacinia.</p>
-                              <div class="feature-list">
-                                <ul>
-                                  <p>- Suspendisse mattis finibus sem</p>
-                                  <p>- Pellentesque et urna vel lectus</p>
-                                  <p>- Vestibulum iaculis nisi dui</p>
-                                  <p>- Donec sagittis eros , ac tempus ligula</p>
-                                  <p>- Integer sapien risus, auctor</p>
-                                </ul>
+                              <h4>Tu nájdete otázky na vaše odpovede! </h4>
+                              
                               </div>
                               <div class="primary-button">
-                                <a href="#">Discover More</a>
+                                <a href="otazky.php">Klikni a zisti!</a>
                               </div>
                             </div>
                           </div>

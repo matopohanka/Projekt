@@ -1,5 +1,5 @@
 <?php
-include('partials/header.php');
+include('partials/header.php'); 
 ?>
 <li>
               <div class="heading">
@@ -12,24 +12,9 @@ include('partials/header.php');
                     <div class="col-md-12">
                       <div class="content fivth-content">
                         <div class="row">
-                          <div class="col-md-4">
-                            <div class="left-info">
-                              <p>Maecenas imperdiet sagittis lacus, ut consequat velit iaculis id. Praesent eu consequat urna. Morbi justo dolor, ornare sed lorem et, auctor iaculis ligula.
-                              <br><br>
-                              <em>5566 Donec mollis libero<br>at metus luctus 10660</em>
-                              </p>
-                              <ul class="social-icons">
-                                <i><a href="#"><i class="fa fa-facebook"></i></a></i>
-                                <i><a href="#"><i class="fa fa-twitter"></i></a></i>
-                                <i><a href="#"><i class="fa fa-linkedin"></i></a></i>
-                                <i><a href="#"><i class="fa fa-rss"></i></a></i>
-                                <i><a href="#"><i class="fa fa-behance"></i></a></i>
-                              </ul>
-                            </div>
-                          </div>
-                          <div class="col-md-8">
+                          <div class="col-md-12">
                             <div class="row">
-                              <form id="contact" action="connect.php" method="post">
+                              <form id="contact" action="form.php" method="post"> 
                                 <div class="col-md-6">
                                   <fieldset>
                                     <input name="name" type="text" class="form-control" id="name" placeholder="Your Name" required="">
