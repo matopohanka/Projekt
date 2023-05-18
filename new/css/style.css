@@ -1,0 +1,24 @@
+.my-table {
+    border-collapse: separate; /* zmeníme na separate */
+    border-spacing: 10px; /* pridáme medzery */
+    width: 100%;
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    margin: 20px 0;
+  }
+  
+  .my-table th, .my-table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+  }
+  
+  .my-table th {
+    background-color: #4CAF50;
+    color: white;
+  }
+  
+  .my-table tr:nth-child(even) {
+    background-color: #f2f2f2;
+  }
+  
